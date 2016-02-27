@@ -1,11 +1,7 @@
 /**
  * File Name: Arrays.java<br>
- * Nepton, Jean-francois<br>
- * Java Boot Camp Exercise<br>
- * Instructor: Jean-francois Nepton<br>
- * Created: Feb 10, 2016
  */
-package com.sqa.jf.util.helper;
+package com.sqa.gf.util.helper;
 
 import java.util.*;
 
