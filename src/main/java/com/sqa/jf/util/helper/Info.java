@@ -10,10 +10,6 @@ import java.util.*;
  * Create a helper class to add to your framework which gives information on any
  * class you create. The method signatures are below. Try to implement one at a
  * time. Create a test case for each method.
- *
- * @author Nepton, Jean-francois
- * @version 1.0.0
- * @since 1.0
  */
 public class Info {
 
